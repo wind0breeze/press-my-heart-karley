@@ -1,0 +1,42 @@
+/* 
+font-family: 'Gilda Display', serif;
+font-family: 'Hind Vadodara', sans-serif;
+*/
+
+html, 
+body {
+    height: 100%;
+}
+
+body {
+    margin: 2rem;
+}
+
+.letter-for-karley-section-container {
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.press-me-button-section-box {
+    width: auto;
+}
+
+.dear-karley-section 
+.dear-karley-paragraph-section
+.dear-karley-last-sentence-section 
+.warmest-regards-closure-section {
+    text-align: center;
+}
+
+
+
+.dear-karley-text
+.warmest-regards-text {
+    font-family: 'Gilda Display', serif;
+}
+
+.paragraph-texts {
+    font-family: 'Hind Vadodara', sans-serif;
+}
